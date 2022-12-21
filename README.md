@@ -1,4 +1,4 @@
-<div align="center"><strong> Olá eu sou o <em>Sérgio Felipe</em>, em busca de realizar um sonho... </strong></div>
+### <div align="center"><strong> Olá eu sou o <em>Sérgio Felipe</em>, em busca de realizar um sonho... </strong></div>
 
 <div align="center">
   <a href="https://github.com/InfoDevEstudent">
@@ -12,3 +12,5 @@
   <img align="center" alt="InfoDevEstudent-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="InfoDevEstudent-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
+
+#
