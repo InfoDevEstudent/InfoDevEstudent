@@ -1,4 +1,4 @@
-### Olá eu sou o Sérgio Felipe, em busca de realizar um sonho... Me preparando para uma oportunidade! 👋
+### Olá eu sou o Sérgio Felipe, em busca de realizar um sonho... Me preparando para uma oportunidade!
 
 <div align="center">
   <a href="https://github.com/InfoDevEstudent">
