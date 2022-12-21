@@ -1,5 +1,4 @@
-### Olá eu sou o Sérgio Felipe, em busca de realizar um sonho... Me preparando para uma oportunidade!
-
+### Olá eu sou o Sérgio Felipe, em busca de realizar um sonho...
 <div align="center">
   <a href="https://github.com/InfoDevEstudent">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=InfoDevEstudent&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
