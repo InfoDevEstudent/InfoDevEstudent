@@ -9,11 +9,11 @@
          <figure><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfoDevEstudent&layout=compact&langs_count=7&theme=dracula"/></figure>
        </div>
        <div style="display: inline_block"><br>
-         <img align="center" title="HTML5" alt="InfoDevEstudent-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-         <img align="center" title="CSS3" alt="InfoDevEstudent-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-         <img align="center" title="JavaScript" alt="InfoDevEstudent-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-         <img align="center" title="TypeScript" alt="InfoDevEstudent-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-         <img align="center" title="React" alt="InfoDevEstudent-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+         <figure><img align="center" title="HTML5" alt="InfoDevEstudent-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></figure>
+         <figure><img align="center" title="CSS3" alt="InfoDevEstudent-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></figure>
+         <figure><img align="center" title="JavaScript" alt="InfoDevEstudent-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></figure>
+         <figure><img align="center" title="TypeScript" alt="InfoDevEstudent-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></figure>
+         <figure><img align="center" title="React" alt="InfoDevEstudent-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></figure>
        </div><br>
           <figure><img align="center" title="Ninmu Shuikou Shimasu" alt="LeonaTheKingOfFighters" width=”100” height="145" src="https://user-images.githubusercontent.com/103974762/209141758-0ce23788-3d68-4e28-8748-65d91bb1a56e.gif"></figure>
           <div>
