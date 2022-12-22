@@ -19,4 +19,7 @@
           <div>
              <a href="https://www.linkedin.com/in/s%C3%A9rgio-f-681565180" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="my LinkedIn" alt="LinkedIn" target="_blank"></a>
           </div>
+     </artcicle>
+   </section>
+</main>
           
