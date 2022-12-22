@@ -19,3 +19,4 @@
           <div>
              <a href="https://www.linkedin.com/in/s%C3%A9rgio-f-681565180" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="my LinkedIn" alt="LinkedIn" target="_blank"></a>
           </div>
+          <img align="right" alt="gif" width=”154” height="224" src="https://user-images.githubusercontent.com/103974762/209141758-0ce23788-3d68-4e28-8748-65d91bb1a56e.gif">
