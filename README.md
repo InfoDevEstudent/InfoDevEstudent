@@ -1,4 +1,4 @@
-### <div align="center"><strong> Olá eu sou o <em>Sérgio Felipe</em>, em busca de realizar um sonho... </strong></div>
+### <header><h1 align="center"><strong> Olá eu sou o <em>Sérgio Felipe</em>, em busca de realizar um sonho... </strong></h1></header>
 
 <div align="center">
   <a href="https://github.com/InfoDevEstudent">
