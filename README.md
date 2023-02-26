@@ -9,9 +9,9 @@
          <figure><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfoDevEstudent&layout=compact&langs_count=7&theme=dracula"/></figure>
        </div>
        <div style="display: inline_block"><br>
-         <figure><img align="center" title="HTML5" alt="InfoDevEstudent-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></figure>
-         <figure><img align="center" title="CSS3" alt="InfoDevEstudent-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></figure>
-          <figure><img align="center" title="Bootstrap" alt="InfoDevEstudent-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></figure>
+         <figure><img align="center" title="HTML5" alt="InfoDevEstudent-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></figure>
+         <figure><img align="center" title="CSS3" alt="InfoDevEstudent-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></figure>
+          <figure><img align="center" title="Bootstrap5" alt="InfoDevEstudent-Bootstrap5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></figure>
          <figure><img align="center" title="JavaScript" alt="InfoDevEstudent-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></figure>
          <figure><img align="center" title="TypeScript" alt="InfoDevEstudent-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></figure>
          <figure><img align="center" title="React" alt="InfoDevEstudent-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></figure>
